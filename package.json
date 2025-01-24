@@ -1,0 +1,17 @@
+{
+  "name": "npi",
+  "version": "1.0.0",
+  "description": "Node para iniciantes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mysql",
+    "nodemon",
+    "handlebars"
+  ],
+  "author": "GersonES",
+  "license": "ISC"
+}
